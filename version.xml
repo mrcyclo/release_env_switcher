@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
 	<version>1.2.0.0</version>
-	<url>https://github.com/mrcyclo/release_env_switcher/raw/master/Release.zip</url>
-	<changelog>https://github.com/mrcyclo/release_env_switcher/raw/master/changelog.html</changelog>
+	<url>https://mrcyclo.github.io/release_env_switcher/Release.zip</url>
+	<changelog>https://mrcyclo.github.io/release_env_switcher/changelog.html</changelog>
 	<mandatory>false</mandatory>
 </item>
